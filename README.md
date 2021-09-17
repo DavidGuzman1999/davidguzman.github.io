@@ -1,1 +1,0 @@
-# davidguzman.github.io
