@@ -1,37 +1,15 @@
 ## Hello This is David Guzman's Profile
 
-You can use the [editor on GitHub](https://github.com/DavidGuzman1999/davidguzman.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I currently attend Queens College, pursuing a BS in Computer Science and a BA in Media Studies. Currently, I work part-time for Teach For America in the Performance Analytics Data Quality Division. Also, I am a fellow in the CUNY Tech Prep program in the data science track. In the past, I was a 2018 America Needs You fellow and also a peer mentor for the Queens College SEEK program. I have also interned in the MTA as an automotive technician.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Links and Projects 
 
 ```markdown
-Syntax highlighted code block
+Resume [Resume] (https://github.com/DavidGuzman1999/davidguzman.github.io/blob/gh-pages/DavidGuzmanResume.pdf)
+Linkedin [Linkedin](https://www.linkedin.com/in/david-guzman1999/)
+GitHub [GitHub] (https://github.com/DavidGuzman1999)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Projects
+Simple Website with HTML and CSS
+[Simple Resume Website] (https://davidguzman1999.github.io/resume.html)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidGuzman1999/davidguzman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
