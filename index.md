@@ -11,7 +11,7 @@ Hello, I currently attend Queens College, pursuing a BS in Computer Science and 
 [Personal GitHub](https://github.com/DavidGuzman1999).
 
 ## Projects
-Simple Website with HTML and CSS
+Simple Website with HTML and CSS.
 [Simple Resume Website](https://davidguzman1999.github.io/resume.html).
 
 
